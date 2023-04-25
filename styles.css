@@ -2,8 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-template-columns:200px 200px;
-	grid-template-rows:repeat(200px,2);
+	grid-template-columns:repeat(2,200px);
+	grid-template-rows:repeat(2,200px);
 	 background-color: #2196F3;
 	gap:10px;
 }
